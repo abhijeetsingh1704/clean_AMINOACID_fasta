@@ -5,3 +5,8 @@ Program to clean AMINO ACID fasta sequences
 ```
 $ bash clean_AMINOACID_fasta.sh <inputfile>
 ```
+# Or
+```
+$ bash clean_AMINOACID_fasta.sh
+```
+
